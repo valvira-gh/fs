@@ -1,0 +1,20 @@
+# Riippuvuuksien hakemistot
+node_modules/
+
+# Ympäristömuuttujien tiedostot
+.env
+
+# Käännöksen tulosteet
+/dist
+/build
+
+# IDE:n määritystiedostot
+.idea/
+.vscode/
+
+# Lokitiedostot
+*.log
+
+# Muut väliaikaiset tiedostot
+*.tmp
+*.temp
